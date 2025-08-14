@@ -92,7 +92,7 @@
             position: relative;
             padding-top: 80px;
             /* Hier dein Hintergrundbild einfügen */
-            background-image: url('DSC03045');
+            background-image: url('/DSC03045');
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
